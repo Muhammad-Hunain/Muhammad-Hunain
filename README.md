@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Any Beckend related Queries**
 
-- 📫 How to reach me **junaidaslam.muet@gmail.com**
+- 📫 How to reach me **hunain29.mem@gmail.com**
 
 - ⚡ Fun fact **A Dreamer**
 
