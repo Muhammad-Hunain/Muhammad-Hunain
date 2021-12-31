@@ -1,17 +1,17 @@
 <!-- ### Hi there 👋 -->
                        
 <!--
-**20sw084/20sw084** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Muhammad-Hunain/Muhammad-Hunain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working at: 
-- 🔭 I’m currently studying: B.E SoftWare-Engineering from Mehran-UET Jamshoro
-- 🌱 I’m currently learning: Java
+- 🔭 I’m currently studying: B.S Computer-Science from Mehran-UET Jamshoro
+- 🌱 I’m currently learning: ReactJS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about: Backend related queries.
-- 📫 How to reach me: junaidaslam.muet@gmail.com
+- 📫 How to reach me: hunain29.mem@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Muhammad Hunain</h1>
 <h3 align="center">A PASSIONATE SOFTWARE DEVELOPER</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=20sw084&label=Profile%20views&color=0e75b6&style=flat" alt="MMuhammad Hunain" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Muhammad Hunain&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammad Hunain" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=20sw084" alt="MMuhammad Hunain" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Hunain" alt="Muhammad Hunain" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/JunaidA11173402" target="blank"><img src="https://img.shields.io/twitter/follow/junaidaslam?logo=twitter&style=for-the-badge" alt="MMuhammad Hunain" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Muhamma87640881" target="blank"><img src="https://img.shields.io/twitter/follow/junaidaslam?logo=twitter&style=for-the-badge" alt="MMuhammad Hunain" /></a> </p>
 
 - 🔭 I’m currently working on **Mobile and Web Development**
 
