@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Hunain" alt="Muhammad Hunain" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/Muhamma87640881" target="blank"><img src="https://img.shields.io/twitter/follow/junaidaslam?logo=twitter&style=for-the-badge" alt="MMuhammad Hunain" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Muhamma87640881" target="blank"><img src="https://img.shields.io/twitter/follow/Muhammad Hunain
+  ?logo=twitter&style=for-the-badge" alt="MMuhammad Hunain" /></a> </p>
 
 - 🔭 I’m currently working on **Mobile and Web Development**
 
@@ -43,7 +44,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@Muhamma87640881" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Junaid-Aslam" height="30" width="40" /></a>
+<a href="https://twitter.com/Muhamma87640881" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Junaid-Aslam" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/muhammad-hunain-0a025321a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/junaid-aslam-4824b51b8" height="30" width="40" /></a>
 <a href="https://www.facebook.com/HunainIsmail.Memons" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100014657020502" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/hunain29_mem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/junaidaslamrajp1" height="30" width="40" /></a>
