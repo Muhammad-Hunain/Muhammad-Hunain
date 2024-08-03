@@ -7,7 +7,7 @@
   <h3>PASSIONATE SOFTWARE DEVELOPER | MOBILE & WEB ENTHUSIAST</h3>
       <p align="center">
         <a href="https://hunain.me" target="_blank">
-          <img src="https://img.shields.io/badge/View_My_Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white" alt="View My Portfolio" />
+          <img src="https://img.shields.io/badge/View_My_Portfolio-fff?style=for-the-badge&logo=portfolio&logoColor=black" alt="View My Portfolio" />
         </a>
       </p>
       <p align="center">
