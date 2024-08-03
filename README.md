@@ -9,21 +9,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=300&color=39FF14¢er=true&vCenter=true&width=435&lines=Hi+there!+I'm+Muhammad+Hunain;Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Always+learning+new+things;Mobile+App+Developer;UI/UX+Designer;Cloud+Computing+Enthusiast" alt="Typing SVG" />
 </p>
 
-<h3 align="center" style="background-color: rgba(255, 255, 255, 0.1); backdrop-filter: blur(5px);">🌐 Connect with me</h3>
-<p align="center" style="background-color: rgba(255, 255, 255, 0.1); backdrop-filter: blur(5px);">
-  <a href="https://twitter.com/Muhamma87640881" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter.png" style="background-color: transparent;" alt="Twitter" /></a>
-  <a href="https://www.linkedin.com/in/muhammad-hunain-0a025321a/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" style="background-color: transparent;" alt="LinkedIn" /></a>
-  <a href="https://www.facebook.com/HunainIsmail.Memons" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook.png" style="background-color: transparent;" alt="Facebook" /></a>
-  <a href="https://www.hackerrank.com/hunain29_mem" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" style="background-color: transparent;" alt="HackerRank" /></a>
-  <a href="https://www.sololearn.com/profile/24510843" target="_blank"><img src="https://img.icons8.com/color/48/000000/sololearn.png" style="background-color: transparent;" alt="SoloLearn" /></a>
-  <a href="https://stackoverflow.com/users/story/17804152?newreg=c60d95ca7f6044a5bdcb51681b74c846" target="_blank"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png" style="background-color: transparent;" alt="Stack Overflow" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Hunain&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
-  </a>
-</p>
 
 <h3 align="center">🚀 About Me</h3>
 
