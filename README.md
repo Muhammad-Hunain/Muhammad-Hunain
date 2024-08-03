@@ -109,7 +109,15 @@
 
 <p align="center">
   Welcome to my digital playground! I'm Muhammad Hunain, a dedicated full-stack developer with a knack for crafting seamless web experiences. My journey in the world of code is driven by curiosity and a relentless pursuit of innovation.
-</p>
+
+<svg viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
+  <path id="curve" fill="transparent" d="M73.2,148.6c4-6.1,65.5-96.8,178.6-95.6c111.3,1.2,170.8,90.3,175.1,97" />
+  <text width="500">
+    <textPath alignment-baseline="top" xlink:href="#curve">
+      Full stack developer • MERN Stack developer • Project Management • AI chatbot development enthusiast • AI prompt engineer enthusiast • and much more
+    </textPath>
+  </text>
+</svg></p>
 
 <p align="center">
   🔭 Currently working on: Enhancing my skills in React and Node.js<br>
