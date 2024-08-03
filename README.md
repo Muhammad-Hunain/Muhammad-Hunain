@@ -5,9 +5,7 @@
 
 <h3 align="center">Passionate Software Developer | Mobile & Web Enthusiast</h3>
 
-<p align="center">
-  <img src="https://res.cloudinary.com/dtsdaiqrp/image/upload/v1722670184/1684967781752_lwdwyj.jpg" alt="Muhammad Hunain" width="100%" height="350" style="object-fit: cover;" />
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=300&color=39FF14¢er=true&vCenter=true&width=435&lines=Hi+there!+I'm+Muhammad+Hunain;Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Always+learning+new+things;Mobile+App+Developer;UI/UX+Designer;Cloud+Computing+Enthusiast" alt="Typing SVG" />
