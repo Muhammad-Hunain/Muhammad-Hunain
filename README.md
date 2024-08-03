@@ -1,10 +1,6 @@
 <h1 align="center" style="color:#c86d55;">Hi 👋, I'm Muhammad Hunain</h1>
 <h3 align="center" style="color:#c86d55;">A Passionate Software Developer</h3>
 
-<p align="center">
-  <img src="https://res.cloudinary.com/dtsdaiqrp/image/upload/v1722670184/1684967781752_lwdwyj.jpg" alt="Muhammad Hunain" />
-</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Muhammad-Hunain&label=Profile%20views&color=c86d55&style=flat" alt="Muhammad-Hunain" /> </p>
 
 <p align="center"> 
@@ -53,7 +49,7 @@
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
-  </a> 
+  </a>
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
   </a>
@@ -61,7 +57,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
   </a>
   <a href="https://vitejs.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="Vite" width="40" height="40" />
+    <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40" />
   </a>
   <a href="https://expressjs.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40" />
@@ -79,13 +75,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ecmascript/ecmascript-original.svg" alt="ECMAScript" width="40" height="40" />
   </a>
   <a href="https://openai.com/" target="_blank">
-    <img src="https://openai.com/static/logo.svg" alt="OpenAI" width="40" height="40" />
+    <img src="https://openai.com/favicon.ico" alt="OpenAI" width="40" height="40" />
   </a>
-  <a href="https://llama.ai/" target="_blank">
-    <img src="https://llama.ai/static/media/logo.b345e68d.svg" alt="Llama" width="40" height="40" />
+  <a href="https://ai.facebook.com/tools/llama/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/llama/llama-original.svg" alt="Llama" width="40" height="40" />
   </a>
-  <a href="https://www.dalle2.com/" target="_blank">
-    <img src="https://dalle2.com/static/media/logo.94c1b4d3.svg" alt="DALL-E" width="40" height="40" />
+  <a href="https://openai.com/dall-e-2" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dalle/dalle-original.svg" alt="DALL-E" width="40" height="40" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40" />
@@ -99,19 +95,17 @@
   <a href="https://en.wikipedia.org/wiki/Prompt_engineering" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/promptengineering/promptengineering-original.svg" alt="Prompt Engineering" width="40" height="40" />
   </a>
-  <a href="https://wordpress.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="40" height="40" />
+  <a href="https://wordpress.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Hunain&theme=radical&hide_border=true&border_radius=4.5" alt="Hunain's streak stats" />
 </p>
 
 <h3 align="center" style="color:#c86d55;">IDEs that I am Familiar With:</h3>
 <p align="center">
   <a href="#" target="_blank"> 
-    <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+    <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20
+
+code&logoColor=white"/>
   </a>
   &emsp;
   <a href="#" target="_blank"> 
