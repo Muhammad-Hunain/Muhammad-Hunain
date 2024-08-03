@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Software Developer | Mobile & Web Enthusiast</h3>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dtsdaiqrp/image/upload/v1722670184/1684967781752_lwdwyj.jpg" alt="Muhammad Hunain" width="500" height="500" style="border-radius: 50%;" />
+  <img src="https://res.cloudinary.com/dtsdaiqrp/image/upload/v1722670184/1684967781752_lwdwyj.jpg" alt="Muhammad Hunain" width="100%" height="350" style="object-fit: cover;" />
 </p>
 
 <p align="center">
@@ -120,4 +120,3 @@
 <p align="center">
   <i>Let's turn ideas into reality, one line of code at a time!</i>
 </p>
-
