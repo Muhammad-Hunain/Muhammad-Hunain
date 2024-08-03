@@ -2,11 +2,11 @@
 <h3 align="center">Passionate Software Developer | Mobile & Web Enthusiast</h3>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dtsdaiqrp/image/upload/v1722670184/1684967781752_lwdwyj.jpg" alt="Muhammad Hunain" width="200" style="border-radius: 50%;" />
+  <img src="https://res.cloudinary.com/dtsdaiqrp/image/upload/v1722670184/1684967781752_lwdwyj.jpg" alt="Muhammad Hunain" width="200" height="200" style="border-radius: 50%;" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=300&color=39FF14¢er=true&vCenter=true&width=400&lines=Welcome+to+my+GitHub+profile!;Data+Scientist+%7C+AI%2FML+Enthusiast;Turning+data+into+insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=300&color=39FF14¢er=true&vCenter=true&width=435&lines=Hi+there!+I'm+Muhammad+Hunain;Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -79,9 +79,6 @@
 <p align="center">
   <i>Feel free to reach out for collaborations or just a friendly chat about tech!</i>
 </p>
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39FF14¢er=true&vCenter=true&width=435&lines=Hi+there!+I'm+Muhammad+Hunain;Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
-</h1>
 
 <h3 align="center">🚀 Passionate Full Stack Developer | MERN Specialist | Tech Explorer</h3>
 
