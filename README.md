@@ -1,4 +1,8 @@
 <h1 align="center">👨‍💻 Muhammad Hunain</h1>
+<p align="center">
+  <img src="https://res.cloudinary.com/dtsdaiqrp/image/upload/v1722670184/1684967781752_lwdwyj.jpg" alt="Muhammad Hunain" width="100%" height="250" style="object-fit: cover;" />
+</p>
+
 <h3 align="center">Passionate Software Developer | Mobile & Web Enthusiast</h3>
 
 <p align="center">
