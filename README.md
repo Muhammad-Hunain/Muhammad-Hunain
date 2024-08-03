@@ -12,6 +12,8 @@
     <a href="https://hunain.me" target="_blank"><img src="https://img.shields.io/badge/🌟_Check_out_my_Portfolio-4285F4?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
     <img src="https://komarev.com/ghpvc/?username=Muhammad-Hunain&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
     <a href="https://hunain.me" target="_blank"><img src="https://img.shields.io/badge/🚀_Explore_My_Projects-FF4500?style=for-the-badge&logoColor=white" alt="Projects" /></a>
+
+<br/><br/>
   </div>
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
