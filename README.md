@@ -5,12 +5,14 @@
 
  
   <h3>PASSIONATE SOFTWARE DEVELOPER | MOBILE & WEB ENTHUSIAST</h3>
-    <p align="center">
-      <a href="https://your-portfolio-url.com" target="_blank">View My Portfolio</a>
-    </p>
-    <p align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=700&duration=1000&color=39FF14¢er=true&vCenter=true&width=435&lines=HI+THERE!+I'M+MUHAMMAD+HUNAIN;FULL+STACK+WEB+DEVELOPER;MERN+STACK+ENTHUSIAST;AI+CHATBOT+DEVELOPER;PROMPT+ENGINEERING+ENTHUSIAST;ALWAYS+LEARNING+NEW+THINGS;" alt="Typing SVG" />
-    </p>
+      <p align="center">
+        <a href="https://hunain.me" target="_blank">
+          <img src="https://img.shields.io/badge/View_My_Portfolio-FF6C37?style=for-the-badge&logo=portfolio&logoColor=white" alt="View My Portfolio" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=700&duration=1000&color=39FF14¢er=true&vCenter=true&width=435&lines=HI+THERE!+I'M+MUHAMMAD+HUNAIN;FULL+STACK+WEB+DEVELOPER;MERN+STACK+ENTHUSIAST;AI+CHATBOT+DEVELOPER;PROMPT+ENGINEERING+ENTHUSIAST;ALWAYS+LEARNING+NEW+THINGS;" alt="Typing SVG" />
+      </p>
 
 
   <p align="center">
