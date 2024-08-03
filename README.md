@@ -1,6 +1,6 @@
 <h1 >👨‍💻 Muhammad Hunain</h1>
   <p align="center">
-    <img src="https://res.cloudinary.com/dtsdaiqrp/image/upload/v1722670184/1684967781752_lwdwyj.jpg" alt="Muhammad Hunain" width="100%" height="200" style="object-fit: cover;" />
+    <img src="https://res.cloudinary.com/dtsdaiqrp/image/upload/v1722670184/1684967781752_lwdwyj.jpg" alt="Muhammad Hunain" width="100%" height="250" style="object-fit: cover;" />
   </p>
 
   <h3 >PASSIONATE SOFTWARE DEVELOPER | MOBILE & WEB ENTHUSIAST</h3>
@@ -116,12 +116,8 @@
       <td>⚡ Fun fact</td>
       <td>When not weaving code, I'm on a quest for the perfect espresso or strategizing my next chess conquest</td>
     </tr>
-    <tr>
-      <td>🌟 Explore my digital realm</td>
-      <td><a href="https://hunain.me" target="_blank" style="text-decoration: none; color: #ff69b4; font-weight: bold;">🚀 Dive into my Portfolio 🚀</a></td>
-    </tr>
   </table>
-  <p align="center">
+  <p alig>
     <i>Together, we'll transform visionary ideas into digital reality, one dazzling line of code at a time! 💫</i>
   </p>
 
