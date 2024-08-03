@@ -9,8 +9,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=300&color=39FF14¢er=true&vCenter=true&width=435&lines=Hi+there!+I'm+Muhammad+Hunain;Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Always+learning+new+things;Mobile+App+Developer;UI/UX+Designer;Cloud+Computing+Enthusiast" alt="Typing SVG" />
 </p>
 
-<h3 align="center">🌐 Connect with me</h3>
-<p align="center">
+<h3 align="center" style="background-color: rgba(255, 255, 255, 0.1); backdrop-filter: blur(5px);">🌐 Connect with me</h3>
+<p align="center" style="background-color: rgba(255, 255, 255, 0.1); backdrop-filter: blur(5px);">
   <a href="https://twitter.com/Muhamma87640881" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter.png" style="background-color: transparent;" alt="Twitter" /></a>
   <a href="https://www.linkedin.com/in/muhammad-hunain-0a025321a/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" style="background-color: transparent;" alt="LinkedIn" /></a>
   <a href="https://www.facebook.com/HunainIsmail.Memons" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook.png" style="background-color: transparent;" alt="Facebook" /></a>
