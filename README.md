@@ -1,6 +1,6 @@
 <h1 >👨‍💻 Muhammad Hunain</h1>
   <p align="center">
-    <img src="https://res.cloudinary.com/dtsdaiqrp/image/upload/v1722670184/1684967781752_lwdwyj.jpg" alt="Muhammad Hunain" width="100%" height="250" style="object-fit: cover;" />
+    <img src="https://res.cloudinary.com/dtsdaiqrp/image/upload/v1722670184/1684967781752_lwdwyj.jpg" alt="Muhammad Hunain" width="100%" height="200" style="object-fit: cover;" />
   </p>
 
   <h3 >PASSIONATE SOFTWARE DEVELOPER | MOBILE & WEB ENTHUSIAST</h3>
