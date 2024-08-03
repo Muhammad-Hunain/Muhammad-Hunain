@@ -6,12 +6,12 @@
  
   <h3>PASSIONATE SOFTWARE DEVELOPER | MOBILE & WEB ENTHUSIAST</h3>
      
-<p align="center">
+      <p align="center">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=700&duration=1000&color=39FF14¢er=true&vCenter=true&width=435&lines=HI+THERE!+I'M+MUHAMMAD+HUNAIN;FULL+STACK+WEB+DEVELOPER;MERN+STACK+ENTHUSIAST;AI+CHATBOT+DEVELOPER;PROMPT+ENGINEERING+ENTHUSIAST;ALWAYS+LEARNING+NEW+THINGS;" alt="Typing SVG" />
       </p>
   <div align="center">
     <a href="https://hunain.me" target="_blank"><img src="https://img.shields.io/badge/🌟_Check_out_my_Portfolio-4285F4?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
-    <img src="https://komarev.com/ghpvc/?username=Muhammad-Hunain&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Muhammad-Hunain&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
     <a href="https://hunain.me" target="_blank"><img src="https://img.shields.io/badge/🚀_Explore_My_Projects-FF4500?style=for-the-badge&logoColor=white" alt="Projects" /></a>
   </div>
   <p align="center">
