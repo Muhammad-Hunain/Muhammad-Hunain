@@ -52,7 +52,7 @@
 
 <h3 align="center">🌐 Connect with me</h3>
 <p align="center">
-  <a href="https://twitter.com/Muhamma87640881" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter.png"  style="    background: rgb(255 255 255 / 11%);
+  <a href="https://twitter.com/Muhamma87640881" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter.png"  style=" background: rgb(255 255 255 / 11%);
     backdrop-filter: blur(1px);
     border-radius: 6px;
     padding: 3px;"  alt="Twitter" /></a>
