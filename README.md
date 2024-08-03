@@ -116,8 +116,12 @@
       <td>⚡ Fun fact</td>
       <td>When not weaving code, I'm on a quest for the perfect espresso or strategizing my next chess conquest</td>
     </tr>
+    <tr>
+      <td>🌟 Explore my digital realm</td>
+      <td><a href="https://hunain.me" target="_blank" style="text-decoration: none; color: #ff69b4; font-weight: bold;">🚀 Dive into my Portfolio 🚀</a></td>
+    </tr>
   </table>
-  <p alig>
+  <p align="center">
     <i>Together, we'll transform visionary ideas into digital reality, one dazzling line of code at a time! 💫</i>
   </p>
 
