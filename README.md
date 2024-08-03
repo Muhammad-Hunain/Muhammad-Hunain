@@ -2,11 +2,11 @@
 <h3 align="center">Passionate Software Developer | Mobile & Web Enthusiast</h3>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dtsdaiqrp/image/upload/v1722670184/1684967781752_lwdwyj.jpg" alt="Muhammad Hunain" width="200" height="200" style="border-radius: 50%;" />
+  <img src="https://res.cloudinary.com/dtsdaiqrp/image/upload/v1722670184/1684967781752_lwdwyj.jpg" alt="Muhammad Hunain" width="500" height="500" style="border-radius: 50%;" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=300&color=39FF14¢er=true&vCenter=true&width=435&lines=Hi+there!+I'm+Muhammad+Hunain;Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=300&color=39FF14¢er=true&vCenter=true&width=435&lines=Hi+there!+I'm+Muhammad+Hunain;Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Always+learning+new+things;Mobile+App+Developer;UI/UX+Designer;Cloud+Computing+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -24,39 +24,62 @@
 
 <h3 align="center">🚀 About Me</h3>
 
-- 🔭 Currently working on **Mobile and Web Development**
-- 🌱 Learning **ReactJS**
-- 👯 Looking to collaborate on **Mobile and Web Development Projects**
-- 🤝 Seeking help to **learn more about new technologies**
-- 💬 Ask me about **Backend-related queries**
-- 📫 Reach me at **hunain29.mem@gmail.com**
-- ⚡ Fun fact: **I'm a Dreamer**
+<table align="center">
+  <tr>
+    <td><strong>🔭 Currently working on</strong></td>
+    <td>Mobile and Web Development</td>
+  </tr>
+  <tr>
+    <td><strong>🌱 Learning</strong></td>
+    <td>ReactJS, Advanced State Management</td>
+  </tr>
+  <tr>
+    <td><strong>👯 Looking to collaborate on</strong></td>
+    <td>Mobile and Web Development Projects</td>
+  </tr>
+  <tr>
+    <td><strong>🤝 Seeking help to</strong></td>
+    <td>Learn more about new technologies</td>
+  </tr>
+  <tr>
+    <td><strong>💬 Ask me about</strong></td>
+    <td>Backend-related queries, MERN stack</td>
+  </tr>
+  <tr>
+    <td><strong>📫 Reach me at</strong></td>
+    <td>hunain29.mem@gmail.com</td>
+  </tr>
+  <tr>
+    <td><strong>⚡ Fun fact</strong></td>
+    <td>I'm a Dreamer and Chess Enthusiast</td>
+  </tr>
+</table>
 
 <h3 align="center">🌐 Connect with me</h3>
 <p align="center">
-  <a href="https://twitter.com/Muhamma87640881" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="40" height="40"/></a>
-  <a href="https://www.linkedin.com/in/muhammad-hunain-0a025321a/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a>
-  <a href="https://www.facebook.com/HunainIsmail.Memons" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" width="40" height="40"/></a>
-  <a href="https://www.hackerrank.com/hunain29_mem" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="HackerRank" width="40" height="40"/></a>
-  <a href="https://www.sololearn.com/profile/24510843" target="_blank"><img src="https://img.icons8.com/color/48/000000/sololearn.png" alt="SoloLearn" width="40" height="40"/></a>
-  <a href="https://stackoverflow.com/users/story/17804152?newreg=c60d95ca7f6044a5bdcb51681b74c846" target="_blank"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Stack Overflow" width="40" height="40"/></a>
+  <a href="https://twitter.com/Muhamma87640881" target="_blank"><img src="https://img.icons8.com/color/64/000000/twitter.png" alt="Twitter" width="50" height="50"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-hunain-0a025321a/" target="_blank"><img src="https://img.icons8.com/color/64/000000/linkedin.png" alt="LinkedIn" width="50" height="50"/></a>
+  <a href="https://www.facebook.com/HunainIsmail.Memons" target="_blank"><img src="https://img.icons8.com/color/64/000000/facebook.png" alt="Facebook" width="50" height="50"/></a>
+  <a href="https://www.hackerrank.com/hunain29_mem" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/64/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="HackerRank" width="50" height="50"/></a>
+  <a href="https://www.sololearn.com/profile/24510843" target="_blank"><img src="https://img.icons8.com/color/64/000000/sololearn.png" alt="SoloLearn" width="50" height="50"/></a>
+  <a href="https://stackoverflow.com/users/story/17804152?newreg=c60d95ca7f6044a5bdcb51681b74c846" target="_blank"><img src="https://img.icons8.com/color/64/000000/stackoverflow.png" alt="Stack Overflow" width="50" height="50"/></a>
 </p>
 
 <h3 align="center">🛠️ Languages and Tools</h3>
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/vite.png" alt="Vite" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/chakra-ui.png" alt="Chakra UI" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/64/000000/mongodb.png" alt="MongoDB" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/64/000000/nodejs.png" alt="Node.js" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/64/000000/react-native.png" alt="React" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/64/000000/vite.png" alt="Vite" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/64/000000/express.png" alt="Express.js" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/64/000000/html-5.png" alt="HTML5" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/64/000000/css3.png" alt="CSS3" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/64/000000/javascript.png" alt="JavaScript" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/64/000000/typescript.png" alt="TypeScript" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/64/000000/tailwindcss.png" alt="Tailwind CSS" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/64/000000/chakra-ui.png" alt="Chakra UI" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/64/000000/bootstrap.png" alt="Bootstrap" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/64/000000/wordpress.png" alt="WordPress" width="50" height="50"/>
 </p>
 
 <h3 align="center">📊 GitHub Stats</h3>
@@ -97,3 +120,4 @@
 <p align="center">
   <i>Let's turn ideas into reality, one line of code at a time!</i>
 </p>
+
