@@ -12,6 +12,30 @@
         </a>
       </p>
 
+ <p align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=700&duration=1000&color=39FF14¢er=true&vCenter=true&width=435&lines=HI+THERE!+I'M+MUHAMMAD+HUNAIN;FULL+STACK+WEB+DEVELOPER;MERN+STACK+ENTHUSIAST;AI+CHATBOT+DEVELOPER;PROMPT+ENGINEERING+ENTHUSIAST;ALWAYS+LEARNING+NEW+THINGS;" alt="Typing SVG" />
+      </p>
+      <div align="center">
+        <a href="https://hunain.me" target="_blank">
+          <img src="https://img.shields.io/badge/🌟_Check_out_my_Portfolio-4285F4?style=for-the-badge&logoColor=white" alt="Portfolio" />
+        </a>
+      </div>
+      <p align="center">
+        <img src="https://komarev.com/ghpvc/?username=Muhammad-Hunain&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+      </p>
+      <p align="center">
+        <a href="https://hunain.me" target="_blank">
+          <img src="https://img.shields.io/badge/🚀_Explore_My_Projects-FF4500?style=for-the-badge&logoColor=white" alt="Projects" />
+        </a>
+      </p>
+
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Hunain&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
+    </a>
+  </p>
+      
+
   <h3 >🚀 About Me</h3>
 
   <table align="center">
