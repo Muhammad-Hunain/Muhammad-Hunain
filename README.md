@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=300&color=39FF14¢er=true&vCenter=true&width=400&lines=Welcome+to+my+GitHub+profile!;Data+Scientist+%7C+AI%2FML+Enthusiast;Turning+data+into+insights" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Muhammad-Hunain&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <a href="https://twitter.com/Muhamma87640881" target="_blank">
     <img src="https://img.shields.io/twitter/follow/Muhamma87640881?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
@@ -74,4 +78,25 @@
 <h3 align="center">🎯 Let's Connect and Code Together!</h3>
 <p align="center">
   <i>Feel free to reach out for collaborations or just a friendly chat about tech!</i>
+</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39FF14¢er=true&vCenter=true&width=435&lines=Hi+there!+I'm+Muhammad+Hunain;Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">🚀 Passionate Full Stack Developer | MERN Specialist | Tech Explorer</h3>
+
+<p align="center">
+  Welcome to my digital playground! I'm Muhammad Hunain, a dedicated full-stack developer with a knack for crafting seamless web experiences. My journey in the world of code is driven by curiosity and a relentless pursuit of innovation.
+</p>
+
+<p align="center">
+  🔭 Currently working on: Enhancing my skills in React and Node.js<br>
+  🌱 Learning: Advanced state management techniques and serverless architectures<br>
+  👯 Looking to collaborate on: Open-source MERN stack projects<br>
+  💬 Ask me about: JavaScript, React, Node.js, or anything web development!<br>
+  ⚡ Fun fact: When I'm not coding, you'll find me exploring new coffee shops or playing chess
+</p>
+
+<p align="center">
+  <i>Let's turn ideas into reality, one line of code at a time!</i>
 </p>
