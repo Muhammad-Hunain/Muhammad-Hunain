@@ -3,7 +3,11 @@
     <img src="https://res.cloudinary.com/dtsdaiqrp/image/upload/v1722670184/1684967781752_lwdwyj.jpg" alt="Muhammad Hunain" width="100%" height="250" style="object-fit: cover;" />
   </p>
 
-  <h3 >PASSIONATE SOFTWARE DEVELOPER | MOBILE & WEB ENTHUSIAST</h3>
+ 
+  <h3>PASSIONATE SOFTWARE DEVELOPER | MOBILE & WEB ENTHUSIAST</h3>
+    <p align="center">
+      <a href="https://your-portfolio-url.com" target="_blank">View My Portfolio</a>
+    </p>
     <p align="center">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=700&duration=1000&color=39FF14¢er=true&vCenter=true&width=435&lines=HI+THERE!+I'M+MUHAMMAD+HUNAIN;FULL+STACK+WEB+DEVELOPER;MERN+STACK+ENTHUSIAST;AI+CHATBOT+DEVELOPER;PROMPT+ENGINEERING+ENTHUSIAST;ALWAYS+LEARNING+NEW+THINGS;" alt="Typing SVG" />
     </p>
